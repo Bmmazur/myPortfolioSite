@@ -1,0 +1,40 @@
+.inline-block {
+display: inline-block;
+vertical-align: top;
+}
+.logo {
+width: 23%;
+padding: 1%;
+text-align: center;
+}
+nav {
+   width: 73%;
+   padding: 1%;
+}
+ul.nav {
+    width: 50%;
+    margin-left: auto;
+}
+/*body content style*/
+section {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+img {
+    justify-content: space-between;
+}
+/*footer style*/
+footer {
+    background-color: #F9FDFF;
+    padding: 10%;
+}
+ul.footer {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10;
+}
